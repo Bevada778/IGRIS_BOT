@@ -1,4 +1,4 @@
-![IGRIS](https://wallpapercave.com/wp/wp4275385.jpg) 
+![BEVADA](https://wallpapercave.com/wp/wp4275385.jpg) 
 # IGRISROBOT
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51)](https://app.codacy.com/gh/AnimeKaizoku/SaitamaRobot?utm_source=github.com&utm_medium=referral&utm_content=AnimeKaizoku/SaitamaRobot&utm_campaign=Badge_Grade_Settings)  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) [![Updates channel!](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/IGRIS_BOT1)
 
@@ -9,7 +9,7 @@ Originally a Marie fork, IGRIS evolved further and was built to be more robust a
 
 Can be found on telegram as [IGRISROBOT](https://t.me/IGRISROBOT).
 
-The Support group can be reached out to at [SOLO•GUILD](https://t.me/IGRISBOTSUPPORT), where you can ask for help about [IGRISROBOT](https://t.me/IGRISBOTSUPPORT),discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [SOLO•GUILD](https://t.me/life_of_friends), where you can ask for help about [IGRISROBOT](https://t.me/life_of_friends),discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 
 
@@ -197,7 +197,7 @@ You can use [nssm](https://nssm.cc/usage) to install the bot as service on windo
 Make sure to edit the start and restart bats to your needs. 
 Note: the restart bat requires that User account control be disabled.
 
-For queries or any issues regarding the bot please open an issue ticket or visit us at [IGRIS BOT SUPPORT](https://t.me/IGRISBOTSUPPORT)
+For queries or any issues regarding the bot please open an issue ticket or visit us at [IGRIS BOT SUPPORT](https://t.me/life_of_friends)
 ## How to setup on Heroku 
 For starters click on this button 
 
